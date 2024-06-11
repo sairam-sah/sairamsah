@@ -175,6 +175,7 @@ section {
 }
 
 .section__text {
+    width: 500px;
     align-self: center;
     text-align: center;
 }
